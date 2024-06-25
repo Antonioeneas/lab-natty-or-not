@@ -7,7 +7,7 @@ Este vídeo de 30 segundos apresenta uma visão rápida e envolvente do potencia
 
 ## 🤖 Tecnologia Utilizada
 - Runway ML, a qual suporta uma ampla gama de modelos de IA generativa baseados em diferentes frameworks, como TensorFlow, PyTorch e outros. Isso proporciona flexibilidade para escolher modelos que melhor se adequem às necessidades específicas de cada projeto. Isso inclui modelos para geração de imagens, vídeos, música, texto, entre outros.
-- 
+
 ## 🧐 Processo de Criação
 Utilizei a plataforma da Runway pra fazer um vídeo narrando um texto através da funcionalidade text to speach.
 
