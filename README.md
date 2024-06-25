@@ -1,5 +1,3 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
 # Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
